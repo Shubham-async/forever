@@ -6,6 +6,10 @@
   "scripts": {
     "start": "index.js",
     "server": "nodemon index.js"
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 752dceb75ceb753435eac02f313e547ae872517e
   },
   "author": "",
   "license": "ISC",
